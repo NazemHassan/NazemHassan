@@ -40,5 +40,7 @@
 <h2 align="left">❤️ Let's Connect:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazemhassan/?originalSubdomain=iq)  
+  <a href="mailto:nazmh160@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](#)  
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&logo=Instagram&logoColor=white)](#)
