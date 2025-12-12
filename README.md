@@ -1,8 +1,10 @@
-<h2 align="center">
+<h2 align="left">
  <abc>
-  <br>I'm <b>Nazem Hassan</b> 👋<br><br>
 
-  <div align="center">
+  <br><b>Hi there 👋</b><br>
+  I'm <b>Nazem Hassan</b> 👋<br><br>
+
+  <div align="left">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
          alt="Coder GIF" width="500">
   </div>
