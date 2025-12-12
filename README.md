@@ -39,8 +39,6 @@
 
 <h2 align="left">❤️ Let's Connect:</h2>
 
-(Replace the links below with your real links if you have them)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](#)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazemhassan/?originalSubdomain=iq)  
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](#)  
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&logo=Instagram&logoColor=white)](#)
