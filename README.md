@@ -31,7 +31,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🎓 I'm learning programming at **Programming Advices School**  
-- 📘 Completed **8 out of 24 courses** in my roadmap  
+- 📘 Completed **10 out of 24 courses** in my roadmap  
 - 💻 I code mainly in **C++**, using **Visual Studio 2022**  
 
 ---
