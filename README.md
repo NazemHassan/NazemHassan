@@ -16,26 +16,17 @@ I'm <b>Nazem Hassan</b> 👋<br><br>
 
 ### 🛠️ Technologies & Tools I Use:
 
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
-         alt="C++" width="55" height="55"/>
-  </a>
+<p align="center">
 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-         alt="C#" width="55" height="55"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio"/>
 
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" 
-         alt=".NET Framework" width="55" height="55"/>
-  </a>
+</p>
 
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
-         alt="Visual Studio" width="55" height="55"/>
-  </a>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+
+
 </p>
 
 ---
@@ -43,9 +34,20 @@ I'm <b>Nazem Hassan</b> 👋<br><br>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 * 🎓 I'm learning programming at **Programming Advices School**
-* 📘 Completed **13 out of 24 courses** in my roadmap
-* 💻 Currently learning **C# and .NET**, with a strong foundation in **C++ and OOP**
 
+📚 Focused on :
+
+ 🔹 C++  
+ 🔹 Object-Oriented Programming  
+ 🔹 Data Structures  
+ 🔹 Algorithms & Problem Solving  
+
+📈 Currently expanding into:
+
+ 🔹  C#  
+ 🔹 .NET Development  
+ 🔹 Windows Forms  
+ 
 ---
 
 <h2 align="left">📂 My Projects:</h2>
